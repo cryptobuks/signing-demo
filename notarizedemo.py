@@ -2,7 +2,7 @@
 # (c) Veriteos, Inc. 2018 
 #
 # Purpose
-# Notarizes/Checks Notarization for a file of reading using a deployed smart contract.
+# Notarizes/Checks Notarization for a file of readings using a deployed smart contract.
 # Demonstrates interacting with a smart contract on the permissioned Veriteos blockchain 
 #
 # Dependencies:
