@@ -1,5 +1,4 @@
-Veriteos Blockchain Signing Demo
-(c) Veriteos, Inc. 2018 
+Blockchain text notary/verification demo
 
 Purpose
 
